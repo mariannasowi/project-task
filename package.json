@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "build": "^0.1.4",
-    "html-validate": "^2.21.0"
+    "html-validate": "^3.0.0"
   }
 }
